@@ -25,7 +25,7 @@ img {
 /* Start Slider Section */
 
 .slider-section {
-    background: url(img/Cover.jpg) rgba(0, 0, 0, 0.6) no-repeat center center;
+    background: url(img/Cover.jpg) rgba(0, 0, 0, 0.5) no-repeat center center;
     background-size: cover;
     padding: 200px 0;
     background-blend-mode: overlay;
